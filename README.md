@@ -111,19 +111,19 @@
 
 #### 我可以... 我希望...
 
-我可以
-📌 分享前端工程化经验 🔍
-📌 组队 Kaggle 入门赛
-📌 交流学习资源整理
-我希望
-🌱 AI 行业岗位内推（尤其中小厂机会）
-🌱 参与有意义的开源项目
+我可以  
+📌 分享前端工程化经验  
+📌 组队 Kaggle 入门赛  
+📌 交流学习资源整理  
+我希望  
+🔍 AI 行业岗位内推（尤其中小厂机会）  
+🌱 参与有意义的开源项目  
 💡 技术转型路线建议
 
 #### 📬 ​ 联系我 ​
 
-📧 ​ 邮箱 ​：sjywx@outlook.com
-💬 ​ 微信 ​：ForbearHappy（备注：AI 转行）
-🔗 ​GitHub​：[你的主页链接](https://github.com/kathy-wong)
+📧 ​ 邮箱 ​：sjywx@outlook.com  
+💬 ​ 微信 ​：ForbearHappy（备注：AI 转行）  
+🔗 ​GitHub​：[https://github.com/kathy-wong](https://github.com/kathy-wong)
 
 "妈妈的时间像海绵里的水——碎片化的积累，也能浇灌出新的可能 💪"
